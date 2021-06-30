@@ -123,6 +123,8 @@ img {
 
 .sides img {
   border: solid 2px black;
+  height: 200px;
+  background-image: cover;
 }
 
 .sides h2 a {
