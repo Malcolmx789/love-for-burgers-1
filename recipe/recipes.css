@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Nav */
+
+header {
+  border-bottom: solid black 4px;
+}
+
+.main-header {
+  width: 100vw;
+  background: #262a10;
+  padding: 10px;
+  font-family: "Pattaya", sans-serif;
+}
+
+.main-nav {
+  font-family: "Pattaya", sans-serif;
+}
+
+.header-list li {
+  display: inline-block;
+}
+
+.cta {
+  background: orange;
+  padding: 4px;
+  border-radius: 8px;
+  border: solid black 2px;
+  border-bottom: none;
+}
+
+.cta:hover {
+  background: white;
+  color: orange;
+}
+
+.header-list a {
+  font-size: 20px;
+  list-style: none;
+  text-decoration: none;
+  margin: 8px;
+  color: white;
+}
+
+.nav-sides:hover {
+  color: orange;
+  border-bottom: solid black 3px;
+}
+
+.badge:hover {
+  color: orange;
+}
+
+/* End Nav */
+
+/* Start boxes */
+/* End boxes */
