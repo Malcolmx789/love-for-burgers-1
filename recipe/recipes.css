@@ -57,5 +57,36 @@ header {
 
 /* End Nav */
 
-/* Start boxes */
-/* End boxes */
+/* Start Recipe list */
+.burger-recipes-list {
+  display: flex;
+  width: 500px;
+  padding: 10px;
+  border: solid black 4px;
+  background-color: yellow;
+}
+
+.Box1 {
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+  border: solid black 4px;
+  background-color: blue;
+}
+
+.Box2 {
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+  border: solid black 4px;
+  background-color: blue;
+}
+
+.Box3 {
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+  border: solid black 4px;
+  background-color: blue;
+}
+/* End Recipe list */
