@@ -101,6 +101,7 @@ header {
 img {
   background-size: cover;
   width: 100%;
+  object-fit: cover;
 }
 
 .specials-background {
@@ -124,7 +125,7 @@ img {
 .sides img {
   border: solid 2px black;
   height: 200px;
-  background-image: cover;
+  object-fit: cover;
 }
 
 .sides h2 a {
